@@ -9,6 +9,631 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+<!-- _On black hole entropy_<br>
+
+Jacobson, T., Kang, G., & Myers, R. C. (1994). On black hole entropy. Physical Review D, 49(12), 6587.
+
+Jacobson, T., Kang, G., & Myers, R. C. (1995). Increase of black hole entropy in higher curvature gravity. Physical Review D, 52(6), 3518.
+
+Jacobson, T., & Kang, G. (1993). Conformal invariance of black hole temperature. Classical and Quantum Gravity, 10(11), L201.
+
+Kang, G. (1996). Black hole area in Brans-Dicke theory. Physical Review D, 54(12), 7483.
+
+Jacobson, T., Kang, G., & Myers, R. C. (1995). Black hole entropy in higher curvature gravity. arXiv preprint gr-qc/9502009.
+
+Hirayama, T., & Kang, G. (2001). Stable black strings in anti–de Sitter space. Physical Review D, 64(6), 064010.
+
+Kang, G., Koga, J. I., & Park, M. I. (2004). Near-horizon conformal symmetry and black hole entropy in any dimension. Physical Review D, 70(2), 024005.
+
+Hirayama, T., Kang, G., & Lee, Y. (2003). Classical stability of charged black branes and the Gubser-Mitra conjecture. Physical Review D, 67(2), 024007.
+
+Kang, G. (1997). Quantum aspects of ergoregion instability. Physical Review D, 55(12), 7563.
+
+Guo, W., Williams, D., Heng, I. S., Gabbard, H., Bae, Y. B., Kang, G., & Zhu, Z. H. (2022). Mimicking mergers: mistaking black hole captures as mergers. Monthly Notices of the Royal Astronomical Society, 516(3), 3847-3860.
+
+Bae, Y. B., Lee, H. M., & Kang, G. (2020). Gravitational-wave Capture in Spinning Black Hole Encounters. The Astrophysical Journal, 900(2), 175.
+
+Ebersold, M., Tiwari, S., Smith, L., Bae, Y. B., Kang, G., Williams, D., ... & Haney, M. (2022). Observational limits on the rate of radiation-driven binary black hole capture events. Physical Review D, 106(10), 104014.
+
+Ho, J., & Kang, G. (1998). Superradiance and the statistical-mechanical entropy of rotating BTZ black holes. Physics Letters B, 445(1-2), 27-35.
+
+Kang, G., & Lee, J. (2004). Classical stability of black D3-branes. Journal of High Energy Physics, 2004(03), 039.
+
+Kim, N. J., Lee, H. W., Myung, Y. S., & Kang, G. (2001). Holographic principle in the Binetruy-Deffayet-Langlois brane cosmology. Physical Review D, 64(6), 064022.
+
+Myung, Y. S., Kang, G., & Lee, H. W. (2000). Randall–Sundrum choice in the brane world. Physics Letters B, 478(1-3), 294-298.
+
+Cho, I., & Kang, G. (2010). Four dimensional string solutions in Hořava-Lifshitz gravity. Journal of High Energy Physics, 2010(7), 1-16.
+
+Bae, Y. B., Lee, H. M., Kang, G., & Hansen, J. (2017). Gravitational radiation driven capture in unequal mass black hole encounters. Physical Review D, 96(8), 084009.
+
+Kang, G. (2002). On the stability of black strings/branes. arXiv preprint hep-th/0202147.
+
+Kang, G., & Myung, Y. S. (2001). U (1) gauge field of the Kaluza-Klein theory in the presence of branes. Physical Review D, 63(6), 064036.
+
+Kang, G., & Myung, Y. S. (2000). No ghost state in the brane world. Physics Letters B, 483(1-3), 235-239.
+
+Myung, Y. S., & Kang, G. (2000). Comment on" Metric Fluctuations in Brane Worlds" (No. hep-th/0001003).
+
+Kang, G. (1997). Quantization of scalar field in the presence of imaginary frequency modes. In Gravitation and Cosmology (Vol. 211, p. 282).
+
+Cho, I., Kang, G., Kim, S. P., & Lee, C. H. (2007). Spacetime structure of 5D hypercylindrical vacuum solutions with tension. arXiv preprint arXiv:0709.1021.
+
+Myung, Y. S., & Kang, G. (2001). Stability of the GRS model. Physics Letters B, 497(3-4), 296-302.
+
+Kang, G. (2021). Ground-based gravitational wave detection and its implications. Journal of the Korean Physical Society, 78, 975-984.
+
+Myung, Y. S., Kang, G., & Lee, H. W. (2000). S-wave absorption of scalars by noncommutative D3-branes. Physical Review D, 62(4), 044031.
+
+Kang, G. (2004). Classical stability of black branes. arXiv preprint hep-th/0403015.
+
+Kang, G. (2018). Gravitational Waves and the 2017 Nobel Prize in Physics. AAPPS Bulletin, 28(1).
+
+Myung, Y. S., Kang, G., & Lee, H. W. (2000). Greybody factor for D3-branes in a B field. Physical Review D, 62(4), 047503.
+
+Kang, G., Kim, H. C., & Lee, J. (2009). Geometrical properties of the trans-spherical solutions in higher dimensions. Physical Review D, 79(12), 124030.
+
+Kim, C., Cho, H. S., Kang, G., Lee, H. W., Lee, C. H., & Lee, H. K. (2016). Gravitational-wave astronomy and astrophysics. New Physics: Sae Mulli, 66(3), 293-303.
+
+Lee, Y., Kang, G., Kim, H. C., & Lee, J. (2011). String or branelike solutions in four-dimensional Einstein gravity in the presence of a cosmological constant. Physical Review D, 84(8), 084042.
+
+Kang, G., & Lee, Y. (2005, December). Classical Stability of Lower Dimensional Black Strings/Branes. In AIP Conference Proceedings (Vol. 805, No. 1, pp. 358-361). American Institute of Physics.
+
+Kang, G., & Lee, Y. (2005). Stability of smeared black branes and the Gubser-Mitra conjecture. arXiv preprint hep-th/0504031.
+
+Kim, H. C., & Kang, G. (2016). Equation of state in the presence of gravity. Journal of the Korean Physical Society, 69, 1597-1602.
+
+Park, D. H., Cho, I., Kang, G., & Lee, H. M. (2013). A fully general relativistic numerical simulation code for spherically symmetric matter. Journal of the Korean Physical Society, 62, 393-405.
+
+Kang, G., Oh, C., & Lee, C. H. (2008). Stability of the AdS soliton spacetime. Journal of the Korean Physical Society, 53(9), 1106-1109.
+
+Kang, G. (1998). Quantum ergoregion instability. In Dualities in Gauge and String Theories (pp. 390-399).
+
+Oh, J. J., & Kang, G. (2016). History of Gravitational-wave Detection Experiments. New Phys.: Sae Mulli, 66, 264-271.
+
+Kim, S. W., Ruffini, R., Kim, S. P., & Kang, G. International Organizing Committee.
+
+Kang, G. (1995). Black hole thermodynamics in higher curvature theories of gravity. Ph. D. Thesis.
+
+Lee, Y. H., Ahn, S. H., Bae, Y. B., Kang, G., Kim, C., Kim, W., ... & Paik, H. J. (2017). Development of Superconducting Low-frequency Gravitational-wave Telescope (SLGT): Technical Challenge and Feasibility. The Bulletin of The Korean Astronomical Society, 42(2), 52-2.
+
+Ji, C. R., Kang, G., & Lee, J. (2006). Instanton-inspired model of QCD phase transitions and bubble dynamics. Physical Review D, 73(8), 085003.
+
+Oh, J. J., Ahn, S. H., Bae, Y. B., Kang, G., Kim, C., Kim, W., ... & Lee, Y. H. (2017). Newtonian Noise and Mitigation for SLGT. The Bulletin of The Korean Astronomical Society, 42(2), 84-2.
+
+Kim, H. C., Kang, G., Lee, J., & Lee, Y. (2010). Classification of hypercylindrical spacetimes with momentum flow. Physical Review D, 82(12), 124066.
+
+Bae, Y. B., Lee, H. M., Kang, G., & Hansen, J. (2017). Gravitational Radiation Capture between Unequal Mass Black Holes. The Bulletin of The Korean Astronomical Society, 42(1), 37-2.
+
+Kang, G. (2012). Hypercylindrical Vacuum Spacetime Solutions. In International Journal of Modern Physics: Conference Series (Vol. 7, pp. 259-265). World Scientific Publishing Company.
+
+Ahn, S. H., Bae, Y. B., Kang, G., Kim, C., Kim, W., Oh, J. J., ... & Paik, H. J. (2017). Gravitational Wave Astrophysics with the Superconducting Low-frequency Gravitational-wave Telescope. The Bulletin of The Korean Astronomical Society, 42(2), 53-1.
+
+Kang, G., Kim, H. C., & Lee, J. (2009). Publisher’s Note: Geometrical properties of the trans-spherical solutions in higher dimensions [Phys. Rev. D 79, 124030 (2009)]. Physical Review D, 80(2), 029904.
+
+Kang, G., Kim, H. C., & Lee, J. (2009). Publisher’s Note: Geometrical properties of the trans-spherical solutions in higher dimensions [Phys. Rev. D 79, 124030 (2009)]. Physical Review D, 80(2), 029904.
+
+Kang, G., Ahn, S. H., Bae, Y. B., Kim, C., Kim, W., Oh, J. J., ... & Paik, H. J. (2017). Structural Analysis of SLGT Platform. The Bulletin of The Korean Astronomical Society, 42(2), 84-1.
+
+Inyong, C., & Gungwon, K. (2010). Four dimensional string solutions in Hořava-Lifshitz gravity. Journal of High Energy Physics, 2010(7).
+
+Park, C., Ahn, S. H., Bae, Y. B., Kang, G., Kim, C., Kim, W., ... & Lee, Y. H. (2017). Stochastic Gravitational Wave Background in 0.1-10 Hz. The Bulletin of The Korean Astronomical Society, 42(2), 53-2.
+
+Bae, Y. B., Ahn, S. H., Kang, G., Kim, C., Kim, W., Oh, J. J., ... & Lee, Y. H. (2017). Binary Black Hole Inspirals and GW detection in 0.1-10 Hz. The Bulletin of The Korean Astronomical Society, 42(2), 53-3.
+
+Ted, J., Gungwon, K., & Robert, C. M. (1994). On black hole entropy. Physical Review D, 49(12), 6587-6598.
+
+Lee, J., Kim, H. C., & Kang, G. (2008). Higher dimensional vacuum $ p-$ brane solutions with trans-spherical symmetry (No. arXiv: 0801.0482).
+
+Ho, J., & Kang, G. (1999). Rotating ideal gases in curved spacetimes. Journal of the Korean Physical Society, 35(9), 623.
+
+Myers, R., Jacobson, T., & Kang, G. (1996). Entropy Increase for Black Holes in Higher Curvature Gravity. In Proceedings of the Seventh Marcel Grossman Meeting on recent developments in theoretical and experimental general relativity, gravitation, and relativistic field theories (p. 937).
+
+Kang, G. Black hole simulations and gravitational waves.
+
+Kang, G. Linearized Stability Analysis for Black Brane Backgrounds.
+
+Kang, G., & Koga, J. I. Black Hole Entropy from Near-Horizon Conformal Symmetry.
+
+Gungwon, K. A. N. G., & LEE, H. M. (2016). Special issue on.
+
+Kim, C., Ahn, S. H., Bae, Y. B., Kang, G., Kim, W., Oh, J. J., ... & Paik, H. J. (2017). Superconducting Low-frequency Gravitational-wave Telescope (SLGT): pilot study status report. 한국천문학회보, 42(2), 52-52.
+
+
+
+
+
+Jacobson, T., Kang, G., & Myers, R. C. (1994).
+On black hole entropy.
+Physical Review D, 49(12), 6587.
+
+Jacobson, T., Kang, G., & Myers, R. C. (1995).
+Increase of black hole entropy in higher curvature gravity.
+Physical Review D, 52(6), 3518.
+
+Jacobson, T., & Kang, G. (1993).
+Conformal invariance of black hole temperature.
+Classical and Quantum Gravity, 10(11), L201.
+
+Kang, G. (1996).
+Black hole area in Brans-Dicke theory.
+Physical Review D, 54(12), 7483.
+
+Jacobson, T., Kang, G., & Myers, R. C. (1995).
+Black hole entropy in higher curvature gravity.
+arXiv preprint gr-qc/9502009.
+
+Hirayama, T., & Kang, G. (2001).
+Stable black strings in anti–de Sitter space.
+Physical Review D, 64(6), 064010.
+
+Kang, G., Koga, J. I., & Park, M. I. (2004).
+Near-horizon conformal symmetry and black hole entropy in any dimension.
+Physical Review D, 70(2), 024005.
+
+Hirayama, T., Kang, G., & Lee, Y. (2003).
+Classical stability of charged black branes and the Gubser-Mitra conjecture.
+Physical Review D, 67(2), 024007.
+
+Kang, G. (1997).
+Quantum aspects of ergoregion instability.
+Physical Review D, 55(12), 7563.
+
+Guo, W., Williams, D., Heng, I. S., Gabbard, H., Bae, Y. B., Kang, G., & Zhu, Z. H. (2022).
+Mimicking mergers: mistaking black hole captures as mergers.
+Monthly Notices of the Royal Astronomical Society, 516(3), 3847-3860.
+
+Bae, Y. B., Lee, H. M., & Kang, G. (2020).
+Gravitational-wave Capture in Spinning Black Hole Encounters.
+The Astrophysical Journal, 900(2), 175.
+
+Ebersold, M., Tiwari, S., Smith, L., Bae, Y. B., Kang, G., Williams, D., ... & Haney, M. (2022).
+Observational limits on the rate of radiation-driven binary black hole capture events.
+Physical Review D, 106(10), 104014.
+
+Ho, J., & Kang, G. (1998).
+Superradiance and the statistical-mechanical entropy of rotating BTZ black holes.
+Physics Letters B, 445(1-2), 27-35.
+
+Kang, G., & Lee, J. (2004).
+Classical stability of black D3-branes.
+Journal of High Energy Physics, 2004(03), 039.
+
+Kim, N. J., Lee, H. W., Myung, Y. S., & Kang, G. (2001).
+Holographic principle in the Binetruy-Deffayet-Langlois brane cosmology.
+Physical Review D, 64(6), 064022.
+
+Myung, Y. S., Kang, G., & Lee, H. W. (2000).
+Randall–Sundrum choice in the brane world.
+Physics Letters B, 478(1-3), 294-298.
+
+Cho, I., & Kang, G. (2010).
+Four dimensional string solutions in Hořava-Lifshitz gravity.
+Journal of High Energy Physics, 2010(7), 1-16.
+
+Bae, Y. B., Lee, H. M., Kang, G., & Hansen, J. (2017).
+Gravitational radiation driven capture in unequal mass black hole encounters.
+Physical Review D, 96(8), 084009.
+
+Kang, G. (2002).
+On the stability of black strings/branes.
+arXiv preprint hep-th/0202147.
+
+Kang, G., & Myung, Y. S. (2001).
+U (1) gauge field of the Kaluza-Klein theory in the presence of branes.
+Physical Review D, 63(6), 064036.
+
+Kang, G., & Myung, Y. S. (2000).
+No ghost state in the brane world.
+Physics Letters B, 483(1-3), 235-239.
+
+Myung, Y. S., & Kang, G. (2000).
+Comment on" Metric Fluctuations in Brane Worlds"
+(No. hep-th/0001003).
+
+Kang, G. (1997).
+Quantization of scalar field in the presence of imaginary frequency modes.
+In Gravitation and Cosmology (Vol. 211, p. 282).
+
+Cho, I., Kang, G., Kim, S. P., & Lee, C. H. (2007).
+Spacetime structure of 5D hypercylindrical vacuum solutions with tension.
+arXiv preprint arXiv:0709.1021.
+
+Myung, Y. S., & Kang, G. (2001).
+Stability of the GRS model.
+Physics Letters B, 497(3-4), 296-302.
+
+Kang, G. (2021).
+Ground-based gravitational wave detection and its implications.
+Journal of the Korean Physical Society, 78, 975-984.
+
+Myung, Y. S., Kang, G., & Lee, H. W. (2000).
+S-wave absorption of scalars by noncommutative D3-branes.
+Physical Review D, 62(4), 044031.
+
+Kang, G. (2004).
+Classical stability of black branes.
+arXiv preprint hep-th/0403015.
+
+Kang, G. (2018).
+Gravitational Waves and the 2017 Nobel Prize in Physics.
+AAPPS Bulletin, 28(1).
+
+Myung, Y. S., Kang, G., & Lee, H. W. (2000).
+Greybody factor for D3-branes in a B field.
+Physical Review D, 62(4), 047503.
+
+Kang, G., Kim, H. C., & Lee, J. (2009).
+Geometrical properties of the trans-spherical solutions in higher dimensions.
+Physical Review D, 79(12), 124030.
+
+Kim, C., Cho, H. S., Kang, G., Lee, H. W., Lee, C. H., & Lee, H. K. (2016).
+Gravitational-wave astronomy and astrophysics.
+New Physics: Sae Mulli, 66(3), 293-303.
+
+Lee, Y., Kang, G., Kim, H. C., & Lee, J. (2011).
+String or branelike solutions in four-dimensional Einstein gravity in the presence of a cosmological constant.
+Physical Review D, 84(8), 084042.
+
+Kang, G., & Lee, Y. (2005).
+Classical Stability of Lower Dimensional Black Strings/Branes.
+In AIP Conference Proceedings (Vol. 805, No. 1, pp. 358-361). American Institute of Physics.
+
+Kang, G., & Lee, Y. (2005).
+Stability of smeared black branes and the Gubser-Mitra conjecture.
+arXiv preprint hep-th/0504031.
+
+Kim, H. C., & Kang, G. (2016).
+Equation of state in the presence of gravity.
+Journal of the Korean Physical Society, 69, 1597-1602.
+
+Park, D. H., Cho, I., Kang, G., & Lee, H. M. (2013).
+A fully general relativistic numerical simulation code for spherically symmetric matter.
+Journal of the Korean Physical Society, 62, 393-405.
+
+Kang, G., Oh, C., & Lee, C. H. (2008).
+Stability of the AdS soliton spacetime.
+Journal of the Korean Physical Society, 53(9), 1106-1109.
+
+Kang, G. (1998).
+Quantum ergoregion instability.
+In Dualities in Gauge and String Theories (pp. 390-399).
+
+Oh, J. J., & Kang, G. (2016).
+History of Gravitational-wave Detection Experiments.
+New Phys.: Sae Mulli, 66, 264-271.
+
+Kang, G. (1995).
+Black hole thermodynamics in higher curvature theories of gravity.
+Ph. D. Thesis.
+
+Lee, Y. H., Ahn, S. H., Bae, Y. B., Kang, G., Kim, C., Kim, W., ... & Paik, H. J. (2017).
+Development of Superconducting Low-frequency Gravitational-wave Telescope (SLGT): Technical Challenge and Feasibility.
+The Bulletin of The Korean Astronomical Society, 42(2), 52-2.
+
+Ji, C. R., Kang, G., & Lee, J. (2006)
+Instanton-inspired model of QCD phase transitions and bubble dynamics.
+Physical Review D, 73(8), 085003.
+
+Oh, J. J., Ahn, S. H., Bae, Y. B., Kang, G., Kim, C., Kim, W., ... & Lee, Y. H. (2017).
+Newtonian Noise and Mitigation for SLGT.
+The Bulletin of The Korean Astronomical Society, 42(2), 84-2.
+
+Kim, H. C., Kang, G., Lee, J., & Lee, Y. (2010).
+Classification of hypercylindrical spacetimes with momentum flow.
+Physical Review D, 82(12), 124066.
+
+Bae, Y. B., Lee, H. M., Kang, G., & Hansen, J. (2017).
+Gravitational Radiation Capture between Unequal Mass Black Holes.
+The Bulletin of The Korean Astronomical Society, 42(1), 37-2.
+
+Kang, G. (2012).
+Hypercylindrical Vacuum Spacetime Solutions.
+In International Journal of Modern Physics: Conference Series (Vol. 7, pp. 259-265). World Scientific Publishing Company.
+
+Ahn, S. H., Bae, Y. B., Kang, G., Kim, C., Kim, W., Oh, J. J., ... & Paik, H. J. (2017).
+Gravitational Wave Astrophysics with the Superconducting Low-frequency Gravitational-wave Telescope.
+The Bulletin of The Korean Astronomical Society, 42(2), 53-1.
+
+Kang, G., Kim, H. C., & Lee, J. (2009).
+Publisher’s Note: Geometrical properties of the trans-spherical solutions in higher dimensions [Phys. Rev. D 79, 124030 (2009)].
+Physical Review D, 80(2), 029904.
+
+Kang, G., Kim, H. C., & Lee, J. (2009).
+Publisher’s Note: Geometrical properties of the trans-spherical solutions in higher dimensions [Phys. Rev. D 79, 124030 (2009)].
+Physical Review D, 80(2), 029904.
+
+Kang, G., Ahn, S. H., Bae, Y. B., Kim, C., Kim, W., Oh, J. J., ... & Paik, H. J. (2017).
+Structural Analysis of SLGT Platform.
+The Bulletin of The Korean Astronomical Society, 42(2), 84-1.
+
+Inyong, C., & Gungwon, K. (2010).
+Four dimensional string solutions in Hořava-Lifshitz gravity.
+Journal of High Energy Physics, 2010(7).
+
+Park, C., Ahn, S. H., Bae, Y. B., Kang, G., Kim, C., Kim, W., ... & Lee, Y. H. (2017).
+Stochastic Gravitational Wave Background in 0.1-10 Hz.
+The Bulletin of The Korean Astronomical Society, 42(2), 53-2.
+
+Bae, Y. B., Ahn, S. H., Kang, G., Kim, C., Kim, W., Oh, J. J., ... & Lee, Y. H. (2017).
+Binary Black Hole Inspirals and GW detection in 0.1-10 Hz.
+The Bulletin of The Korean Astronomical Society, 42(2), 53-3.
+
+Ted, J., Gungwon, K., & Robert, C. M. (1994).
+On black hole entropy.
+Physical Review D, 49(12), 6587-6598.
+
+Lee, J., Kim, H. C., & Kang, G. (2008).
+Higher dimensional vacuum $ p-$ brane solutions with trans-spherical symmetry
+(No. arXiv: 0801.0482).
+
+Ho, J., & Kang, G. (1999).
+Rotating ideal gases in curved spacetimes.
+Journal of the Korean Physical Society, 35(9), 623.
+
+Myers, R., Jacobson, T., & Kang, G. (1996).
+Entropy Increase for Black Holes in Higher Curvature Gravity. In Proceedings of the Seventh Marcel Grossman Meeting on recent developments in theoretical and experimental general relativity, gravitation, and relativistic field theories (p. 937).
+
+Kim, C., Ahn, S. H., Bae, Y. B., Kang, G., Kim, W., Oh, J. J., ... & Paik, H. J. (2017).
+Superconducting Low-frequency Gravitational-wave Telescope (SLGT): pilot study status report.
+한국천문학회보, 42(2), 52-52. -->
+
+### 2022
+**Mimicking mergers: mistaking black hole captures as mergers**<br>
+Guo, W., Williams, D., Heng, I. S., Gabbard, H., Bae, Y. B., Kang, G., & Zhu, Z. H.<br>
+Monthly Notices of the Royal Astronomical Society, 516(3), 3847-3860
+
+**Observational limits on the rate of radiation-driven binary black hole capture events**<br>
+Ebersold, M., Tiwari, S., Smith, L., Bae, Y. B., Kang, G., Williams, D., ... & Haney, M.<br>
+Physical Review D, 106(10), 104014
+
+### 2021
+**Ground-based gravitational wave detection and its implications**<br>
+Kang, G.<br>
+Journal of the Korean Physical Society, 78, 975-984
+
+### 2020
+**Gravitational-wave Capture in Spinning Black Hole Encounters**<br>
+Bae, Y. B., Lee, H. M., & Kang, G.<br>
+The Astrophysical Journal, 900(2), 175
+
+### 2018
+**Gravitational Waves and the 2017 Nobel Prize in Physics**<br>
+Kang, G.<br>
+AAPPS Bulletin, 28(1)
+
+### 2017
+**Gravitational radiation driven capture in unequal mass black hole encounters**<br>
+Bae, Y. B., Lee, H. M., Kang, G., & Hansen, J.<br>
+Physical Review D, 96(8), 084009
+
+**Development of Superconducting Low-frequency Gravitational-wave Telescope (SLGT): Technical Challenge and Feasibility**<br>
+Lee, Y. H., Ahn, S. H., Bae, Y. B., Kang, G., Kim, C., Kim, W., ... & Paik, H. J.<br>
+The Bulletin of The Korean Astronomical Society, 42(2), 52-2
+
+**Newtonian Noise and Mitigation for SLGT**<br>
+Oh, J. J., Ahn, S. H., Bae, Y. B., Kang, G., Kim, C., Kim, W., ... & Lee, Y. H.<br>
+The Bulletin of The Korean Astronomical Society, 42(2), 84-2
+
+**Gravitational Radiation Capture between Unequal Mass Black Holes**<br>
+Bae, Y. B., Lee, H. M., Kang, G., & Hansen, J.<br>
+The Bulletin of The Korean Astronomical Society, 42(1), 37-2
+
+**Gravitational Wave Astrophysics with the Superconducting Low-frequency Gravitational-wave Telescope**<br>
+Ahn, S. H., Bae, Y. B., Kang, G., Kim, C., Kim, W., Oh, J. J., ... & Paik, H. J.<br>
+The Bulletin of The Korean Astronomical Society, 42(2), 53-1
+
+**Structural Analysis of SLGT Platform**<br>
+Kang, G., Ahn, S. H., Bae, Y. B., Kim, C., Kim, W., Oh, J. J., ... & Paik, H. J.<br>
+The Bulletin of The Korean Astronomical Society, 42(2), 84-1
+
+**Stochastic Gravitational Wave Background in 0.1-10 Hz**<br>
+Park, C., Ahn, S. H., Bae, Y. B., Kang, G., Kim, C., Kim, W., ... & Lee, Y. H.<br>
+The Bulletin of The Korean Astronomical Society, 42(2), 53-2
+
+**Binary Black Hole Inspirals and GW detection in 0.1-10 Hz**<br>
+Bae, Y. B., Ahn, S. H., Kang, G., Kim, C., Kim, W., Oh, J. J., ... & Lee, Y. H.<br>
+The Bulletin of The Korean Astronomical Society, 42(2), 53-3
+
+### 2016
+**Gravitational-wave astronomy and astrophysics**<br>
+Kim, C., Cho, H. S., Kang, G., Lee, H. W., Lee, C. H., & Lee, H. K.<br>
+New Physics: Sae Mulli, 66(3), 293-303
+
+**Equation of state in the presence of gravity**<br>
+Kim, H. C., & Kang, G.<br>
+Journal of the Korean Physical Society, 69, 1597-1602
+
+**History of Gravitational-wave Detection Experiments**<br>
+Oh, J. J., & Kang, G.<br>
+New Phys.: Sae Mulli, 66, 264-271
+
+### 2013
+**A fully general relativistic numerical simulation code for spherically symmetric matter**<br>
+Park, D. H., Cho, I., Kang, G., & Lee, H. M.<br>
+Journal of the Korean Physical Society, 62, 393-405
+
+### 2012
+**Hypercylindrical Vacuum Spacetime Solutions**<br>
+Kang, G.<br>
+In International Journal of Modern Physics: Conference Series (Vol. 7, pp. 259-265). World Scientific Publishing Company
+
+### 2011
+**String or branelike solutions in four-dimensional Einstein gravity in the presence of a cosmological constant**<br>
+Lee, Y., Kang, G., Kim, H. C., & Lee, J.<br>
+Physical Review D, 84(8), 084042
+
+### 2010
+**Four dimensional string solutions in Hořava-Lifshitz gravity**<br>
+Cho, I., & Kang, G.<br>
+Journal of High Energy Physics, 2010(7), 1-16
+
+**Classification of hypercylindrical spacetimes with momentum flow**<br>
+Kim, H. C., Kang, G., Lee, J., & Lee, Y.<br>
+Physical Review D, 82(12), 124066
+
+**Four dimensional string solutions in Hořava-Lifshitz gravity**<br>
+Inyong, C., & Gungwon, K.<br>
+Journal of High Energy Physics, 2010(7)
+
+### 2009
+**Geometrical properties of the trans-spherical solutions in higher dimensions**<br>
+Kang, G., Kim, H. C., & Lee, J.<br>
+Physical Review D, 79(12), 124030
+
+**Publisher’s Note: Geometrical properties of the trans-spherical solutions in higher dimensions [Phys. Rev. D 79, 124030 (2009)]**<br>
+Kang, G., Kim, H. C., & Lee, J.<br>
+Physical Review D, 80(2), 029904
+
+### 2008
+**Stability of the AdS soliton spacetime**<br>
+Kang, G., Oh, C., & Lee, C. H.<br>
+Journal of the Korean Physical Society, 53(9), 1106-1109
+
+**Higher dimensional vacuum $ p-$ brane solutions with trans-spherical symmetry**<br>
+Lee, J., Kim, H. C., & Kang, G.<br>
+(No. arXiv: 0801.0482)
+
+### 2007
+**Spacetime structure of 5D hypercylindrical vacuum solutions with tension**<br>
+Cho, I., Kang, G., Kim, S. P., & Lee, C. H.<br>
+arXiv preprint arXiv:0709.1021
+
+### 2006
+**Instanton-inspired model of QCD phase transitions and bubble dynamics**<br>
+Ji, C. R., Kang, G., & Lee, J.<br>
+Physical Review D, 73(8), 085003
+
+### 2005
+**Classical Stability of Lower Dimensional Black Strings/Branes**<br>
+Kang, G., & Lee, Y.<br>
+In AIP Conference Proceedings (Vol. 805, No. 1, pp. 358-361). American Institute of Physics
+
+**Stability of smeared black branes and the Gubser-Mitra conjecture**<br>
+Kang, G., & Lee, Y.<br>
+arXiv preprint hep-th/0504031
+
+### 2004
+**Near-horizon conformal symmetry and black hole entropy in any dimension**<br>
+Kang, G., Koga, J. I., & Park, M. I.<br>
+Physical Review D, 70(2), 024005
+
+**Classical stability of black D3-branes**<br>
+Kang, G., & Lee, J.<br>
+Journal of High Energy Physics, 2004(03), 039
+
+**Classical stability of black branes**<br>
+Kang, G.<br>
+arXiv preprint hep-th/0403015
+
+### 2003
+**Classical stability of charged black branes and the Gubser-Mitra conjecture**<br>
+Hirayama, T., Kang, G., & Lee, Y.<br>
+Physical Review D, 67(2), 024007
+
+### 2002
+**On the stability of black strings/branes**<br>
+Kang, G.<br>
+arXiv preprint hep-th/0202147
+
+### 2001
+**Stable black strings in anti–de Sitter space**<br>
+Hirayama, T., & Kang, G.<br>
+Physical Review D, 64(6), 064010
+
+**Holographic principle in the Binetruy-Deffayet-Langlois brane cosmology**<br>
+Kim, N. J., Lee, H. W., Myung, Y. S., & Kang, G.<br>
+Physical Review D, 64(6), 064022
+
+**U (1) gauge field of the Kaluza-Klein theory in the presence of branes**<br>
+Kang, G., & Myung, Y. S.<br>
+Physical Review D, 63(6), 064036
+
+**Stability of the GRS model**<br>
+Myung, Y. S., & Kang, G.<br>
+Physics Letters B, 497(3-4), 296-302
+
+### 2000
+**Randall–Sundrum choice in the brane world**<br>
+Myung, Y. S., Kang, G., & Lee, H. W.<br>
+Physics Letters B, 478(1-3), 294-298
+
+**No ghost state in the brane world**<br>
+Kang, G., & Myung, Y. S.<br>
+Physics Letters B, 483(1-3), 235-239
+
+**Comment on" Metric Fluctuations in Brane Worlds"**<br>
+Myung, Y. S., & Kang, G.<br>
+(No. hep-th/0001003)
+
+**S-wave absorption of scalars by noncommutative D3-branes**<br>
+Myung, Y. S., Kang, G., & Lee, H. W.<br>
+Physical Review D, 62(4), 044031
+
+**Greybody factor for D3-branes in a B field**<br>
+Myung, Y. S., Kang, G., & Lee, H. W.<br>
+Physical Review D, 62(4), 047503
+
+### 1999
+**Rotating ideal gases in curved spacetimes**<br>
+Ho, J., & Kang, G.<br>
+Journal of the Korean Physical Society, 35(9), 623
+
+### 1998
+**Superradiance and the statistical-mechanical entropy of rotating BTZ black holes**<br>
+Ho, J., & Kang, G.<br>
+Physics Letters B, 445(1-2), 27-35
+
+**Quantum ergoregion instability**<br>
+Kang, G.<br>
+In Dualities in Gauge and String Theories (pp. 390-399)
+
+### 1997
+**Quantum aspects of ergoregion instability**<br>
+Kang, G.<br>
+Physical Review D, 55(12), 7563
+
+**Quantization of scalar field in the presence of imaginary frequency modes**<br>
+Kang, G.<br>
+In Gravitation and Cosmology (Vol. 211, p. 282)
+
+### 1996
+**Black hole area in Brans-Dicke theory**<br>
+Kang, G.<br>
+Physical Review D, 54(12), 7483
+
+**Entropy Increase for Black Holes in Higher Curvature Gravity.**<br>
+Myers, R., Jacobson, T., & Kang, G.<br>
+In Proceedings of the Seventh Marcel Grossman Meeting on recent developments in theoretical and experimental general relativity, gravitation, and relativistic field theories (p. 937)
+
+### 1995
+**Increase of black hole entropy in higher curvature gravity**<br>
+Jacobson, T., Kang, G., & Myers, R. C.<br>
+Physical Review D, 52(6), 3518
+
+**Black hole entropy in higher curvature gravity**<br>
+Jacobson, T., Kang, G., & Myers, R. C.<br>
+arXiv preprint gr-qc/9502009
+
+**Black hole thermodynamics in higher curvature theories of gravity**<br>
+Kang, G.<br>
+Ph. D. Thesis
+
+### 1994
+**On black hole entropy**<br>
+Jacobson, T., Kang, G., & Myers, R. C.<br>
+Physical Review D, 49(12), 6587
+
+**On black hole entropy**<br>
+Ted, J., Gungwon, K., & Robert, C. M.<br>
+Physical Review D, 49(12), 6587-6598
+
+### 1993
+**Conformal invariance of black hole temperature**<br>
+Jacobson, T., & Kang, G.<br>
+Classical and Quantum Gravity, 10(11), L201
+
+<!-- 
 ### 2022
 
 _Data-driven exclusion criteria for instrumental variable studies_<br>
@@ -1143,4 +1768,4 @@ International Joint Conference on Neural Networks ([PDF](http://klab.smpp.northw
 
 ### Copyright Notice
 
-The documents listed here are available for downloading and have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be re-posted without the explicit permission of the copyright holder.
+The documents listed here are available for downloading and have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be re-posted without the explicit permission of the copyright holder. -->
