@@ -1,7 +1,7 @@
 ---
 title: Example how to run PySpark
 description: small snippet to run PySpark snippet
-categories: blog
+categories: newblog
 header-img: images/post/dino.jpg
 ---
 

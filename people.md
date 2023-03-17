@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|alumni" | split: "|" %}
+{% assign role_array = "pi|postdoc|gradstudent|undergrad|researchstaff|visiting|others|alumni" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -22,6 +22,8 @@ permalink: /people/
 <h3>Principal Investigator</h3>
  {% elsif role == 'gradstudent' %}
 <h3>Graduate Students</h3>
+ {% elsif role == 'undergrad' %}
+<h3>Undergraduate Students</h3>
  {% elsif role == 'researchstaff' %}
 <h3>Research Staff</h3>
  {% elsif role == 'visiting' %}
@@ -56,7 +58,7 @@ permalink: /people/
 
 <br>
 
-| Who are they | When were they here | Where they went |
+<!-- | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
 | [Ari Benjamin](https://ari-benjamin.com/) | Graduate student (2016-2022) | Postdoc with Tony Zador at Cold Spring Harbor Laboratory |
 | [Titipat Achakulvisut](https://kordinglab.com/people/titipat_achakulvisut/.index.html) | Graduate Student (2014 - 2021) | [Biomedical and Data Lab](https://biodatlab.github.io/), Dept of Biomedical Engineering, Mahidol University, Thailand |
@@ -116,7 +118,7 @@ permalink: /people/
 | Nicholas Bowman | Rotation Student (Winter 2007) | Senior Data Scientist at IsoPlexis |
 | Taro Kiritani | Rotation Student (Winter 2007) | ExaWizards Inc. in Tokyo |
 | Rashmi Sarnaik | Rotation Student (Winter 2007) | Scientific Editor at Neuron |
-| Emily Oby | Rotation Student (Fall 2006) | Postdoc w/ Aaron Batista at University of Pittsburgh |
+| Emily Oby | Rotation Student (Fall 2006) | Postdoc w/ Aaron Batista at University of Pittsburgh | -->
 
 {% endif %}
 {% endfor %}

@@ -2,6 +2,7 @@
 title: 'Lab Teaching: Docker 101 for reproducible science'
 description: Using Docker for a reproducible and reusable data science workflow
 categories: newblog
+header-img: images/post/dino4.jpeg
 ---
 
 # Docker 101 for Reproducible Science
