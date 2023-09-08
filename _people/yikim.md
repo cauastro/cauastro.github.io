@@ -1,6 +1,6 @@
 ---
 name: Yeongil Kim
-position: undergrad
+position: gradstudent
 avatar: yik.jpg
 twitter:
 joined: 2023
