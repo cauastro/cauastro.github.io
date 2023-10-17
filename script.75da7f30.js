@@ -2937,4 +2937,24 @@ var scroll = new _locomotiveScroll.default({
 // // 초기화 및 창 크기 변경 이벤트 핸들링
 // setDynamicWidth(); // 페이지 로드시 초기 width 설정
 // window.addEventListener('resize', setDynamicWidth); // 창 크기 변경 이벤트 감지
+
+var section = document.getElementById('page-0');
+var nav = document.getElementById('nav');
+function adjustNavPadding() {
+  var computedStyle = window.getComputedStyle(section);
+  var marginLeft = computedStyle.marginLeft;
+
+  // margin-left 값을 추출 (예: "100px")
+  var marginLeftValue = parseFloat(marginLeft) + 48;
+
+  // #nav 요소의 padding-left와 padding-right 값을 업데이트
+  nav.style.paddingLeft = "".concat(marginLeftValue, "px");
+  nav.style.paddingRight = "".concat(marginLeftValue, "px");
+}
+
+// 창 크기가 변경될 때마다 작업을 수행
+window.addEventListener('resize', adjustNavPadding);
+
+// 초기 로드 시 작업 수행
+window.addEventListener('load', adjustNavPadding);
 },{"locomotive-scroll":"ez7q"}]},{},["mpVp"], null)
