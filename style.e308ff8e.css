@@ -50,6 +50,10 @@ section {
     }
 }
 
+#bbhanim {
+    float:right;
+}
+
 #copyright {
     padding: 5em 10em;
     font-size: 1vh;
@@ -108,6 +112,23 @@ section {
     position: sticky;
     z-index: 1;
 }
+
+a {
+    color: rgba(255, 0, 0, 0.65);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/*a:active {*/
+/*    color: black;*/
+/*}*/
+
+/*a:visited {*/
+/*    color: purple;*/
+/*}*/
 
 
 @media screen and (min-width: 1024px) {

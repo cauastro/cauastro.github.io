@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="style.e308ff8e.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
     <link rel="stylesheet" href="icon.a79cfd4b.css">
+    <link rel="stylesheet" href="quote.6d292f83.css">
+    <link rel="stylesheet" href="anim.9a27b093.css">
 </head>
 <body>
 
@@ -64,8 +66,76 @@
 <!--        <div class="sticky" data-scroll data-scroll-sticky data-scroll-target="#page-1">sticky content</div>-->
         <h1 data-scroll="">Research</h1>
         <p data-scroll=""> 우리는 이런 연구를 하고 있어요.</p>
+        <h2 data-scroll="">Analytic General Relativity</h2>
+        <blockquote data-scroll="">
+            <p>Spacetime tells matter how to move; matter tells spacetime how to curve.</p>
+            <span>John A. Wheeler</span>
+        </blockquote>
+        일반 상대론은 뉴턴 역학에서 설명할 수 없는 세차 운동, 태양 근처에서 빛의 휘어짐 등을 설명합니다. 우리는 이에 대한 정량적 계산과 더불어 수치 계산을 수행합니다.
+
         <h2 data-scroll="">Gravitational Waves</h2>
+
+        <blockquote data-scroll="">
+            <p>Gravitational waves will bring us exquisitely accurate maps of black holes - maps of their space-time. Those maps will make it crystal clear whether or not what were dealing with are black holes as described by general relativity.</p>
+            <span>Kip S. Thorne</span>
+        </blockquote>
+
+
         <h2 data-scroll="">Numerical Relativity</h2>
+
+<!--        1915년 아인슈타인을 통해 등장한 일반 상대론은 블랙홀, 중성자별 등의 다양한 천체의 역학과 특히 중력파를 예측할 수 있습니다.-->
+<!--        다루고자 하는 시스템의 compactness가 작거나, 궤도 속도가 작은 경우는 post-Minkowskian 또는 post-Newtonian 근사 등을 사용하여 필요한 물리량을 계산할 수 있습니다.-->
+<!--        하지만 블랙홀 쌍성계 병합 단계와 같이 근사 방법이 부정확해지는 극한에서 우리는 근사 없는 아인슈타인의 장 방정식을 풀어야 합니다.-->
+<!--        물론 아인슈타인의 장 방정식은 비선형 편미분 방정식이기 때문에 일반적인 상황에 대해 해석적으로 풀기 어렵습니다.-->
+<!--        이 복잡한 방정식을 풀기 위해 다양한 방법들이 연구되며 수치 상대론이 발전되었습니다.-->
+
+<!--        우리는 주로 Einstein Toolkit을 이용하여 다양한 고에너지 천체 현상을 시뮬레이션합니다. Einstein Toolkit은 Cactus를 기반으로 하며 FDM(Finite Difference Method), AMR(Adaptive Mesh Refinement) 등의 계산 알고리즘을 사용하여 정확하고 정교한 결과를 얻을 수 있도록 합니다.-->
+<!--        다루고자 하는 구체적인 상황을 모델링하고 이를 통해 시스템의 에너지 변화, 중력파 방출 등을 계산합니다.-->
+<!--        이렇게 계산된 중력파 파형은 중력파 검출에 중요하게 사용됩니다. 중력파를 성공적으로 검출하기 위해선 미리 계산된 중력파 파형과 강한 교차 상관관계를 보여야 하며 이를 위해 중력파 파형은 가능한 높은 정확도로 계산되어야 합니다.-->
+<!--        Convergence test를 시행하고 약한 장 영역에서의 결과를 post-Newtonian 근사 결과와 비교함으로써 시뮬레이션의 타당함을 검증합니다.-->
+
+<!--        또한 기존에 사용되었던 수치 계산 알고리즘을 개선하고 더 나은 성능을 가지는 코드 개발에도 힘쓰고 있습니다.-->
+        <blockquote data-scroll="">
+            <p>Motivated by the forthcoming observations of ground-based gravitational wave detectors, such as the LIGO and by the next generation of space-based detectors, such as the LISA, the numerical relativity community has dedicated a great deal of effort to solving the binary-black-hole problem over the last few decades.</p>
+            <span>M. Campanelli</span>
+        </blockquote>
+
+        <div class="wrapper" id="bbhanim" data-scroll="">
+            <div class="obj"></div>
+            <div class="obj obj--2"></div>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300"><path d="M265.4956,149.9618 265.5202,153.031 265.4861,158.6883 265.1595,164.5424 264.657,170.4719 263.9412,176.4809 262.8011,182.5247 261.0739,188.4567 258.7824,194.1861 256.0297,199.7298 252.9081,205.1208 249.4703,210.3595 245.7603,215.4689 241.7653,220.4486 237.4803,225.2458 232.8878,229.8012 227.9949,234.0779 222.837,238.0723 217.4422,241.7883 211.8333,245.2158 206.0269,248.3296 200.0342,251.0994 193.8685,253.5035 187.5467,255.5342 181.0929,257.1879 174.5367,258.4568 167.9077,259.3298 161.23,259.7944 154.5251,259.8427 147.8133,259.4694 141.1187,258.6736 134.4708,257.4559 127.9012,255.8165 121.4407,253.7547 115.1174,251.2723 108.9566,248.3735 102.9841,245.0663 97.2278,241.3611 91.7186,237.2697 86.4876,232.8047 81.5636,227.9793 76.9729,222.8099 72.7407,217.3161 68.893,211.5204 65.4564,205.4478 62.457,199.1243 59.9184,192.5776 57.8622,185.8373 56.3077,178.9364 55.273,171.911 54.7748,164.7998 54.8282,157.6434 55.4453,150.4835 56.6345,143.3636 58.4011,136.3304 60.7467,129.4326 63.6698,122.7213 67.1649,116.2489 71.2222,110.0688 75.8266,104.2354 80.9572,98.804 86.5876,93.8311 92.6853,89.3735 99.2116,85.4874 106.1206,82.2277 113.3588,79.6476 120.8641,77.7979 128.566,76.7262 136.3852,76.4755 144.233,77.0832 152.011,78.5786 159.6105,80.9819 166.9125,84.3016 173.7876,88.5321 180.0971,93.6507 185.6932,99.6134 190.4208,106.3505 194.1203,113.7612 196.6319,121.708 197.8021,130.0087 197.4945,138.4291 195.6057,146.6751 192.0886,154.3874 186.9874,161.1428 180.4836,166.4705 172.9524,169.900 165.0065,171.058 157.4853,169.8245 151.3183,166.5056 147.2428,161.9032 145.4821,157.1442 145.6103,153.2601 149.5021,149.9201" fill="none" stroke="#5e5e7d" stroke-width="2" stroke-miterlimit="3"></path><path d="M34.5044,150.0382 34.4798,146.969 34.5139,141.3117 34.8405,135.4576 35.343,129.5281 36.0588,123.5191 37.1989,117.4753 38.9261,111.5433 41.2176,105.8139 43.9703,100.2702 47.0919,94.8792 50.5297,89.6405 54.2397,84.5311 58.2347,79.5514 62.5197,74.7542 67.1122,70.1988 72.0051,65.9221 77.1632,61.9277 82.5578,58.2117 88.1667,54.7842 93.9731,51.6704 99.9658,48.9006 106.1315,46.4965 112.4533,44.4658 118.9071,42.8121 125.4633,41.5432 132.0923,40.6702 138.77,40.2056 145.4749,40.1573 152.1867,40.5306 158.8813,41.3264 165.5292,42.5441 172.0988,44.1835 178.5593,46.2453 184.8826,48.7277 191.0434,51.6265 197.0159,54.9337 202.7722,58.6389 208.2814,62.7303 213.5124,67.1953 218.4364,72.0207 223.0271,77.1901 227.2593,82.684 231.107,88.4796 234.5436,94.5522 237.543,100.8757 240.0816,107.4224 242.1378,114.1627 243.6923,121.0636 244.7271,128.089 245.2252,135.2002 245.1718,142.3566 244.5547,149.5165 243.3655,156.6364 241.5989,163.6696 239.2533,170.5674 236.3302,177.2787 232.8351,183.7511 228.7778,189.9312 224.1734,195.7646 219.0428,201.196 213.4124,206.1689 207.3147,210.6265 200.7884,214.5126 193.8794,217.7723 186.6412,220.3524 179.1359,222.2021 171.434,223.2738 163.6148,223.5245 155.7669,222.9168 147.9889,221.4214 140.3895,219.0181 133.0875,215.6984 126.2124,211.4679 119.9029,206.3493 114.3068,200.3866 109.5792,193.6495 105.8797,186.2388 103.3681,178.292 102.1979,169.9913 102.5055,161.5709 104.3943,153.3249 107.9114,145.6126 113.0126,138.8572 119.5164,133.5295 127.0476,130.1 134.9935,128.9419 142.5147,130.1755 148.6817,133.4944 152.7572,138.0968 154.5179,142.8558 154.3897,146.7399 150.4979,150.0799" fill="none" stroke="#5e5e7d" stroke-width="2" stroke-miterlimit="3"></path></svg>
+        </div>
+        <div>
+            The general theory of relativity, introduced by Einstein in 1915, allows us to predict the dynamics of various celestial bodies, such as black holes and neutron stars, as well as the emission of gravitational waves.
+            When dealing with systems of low compactness or low orbital velocities, we can calculate the required physical quantities using approximations like post-Minkowskian or post-Newtonian methods.
+            However, in extreme situations where approximations become unreliable, such as during the merger of binary black hole systems, we must solve Einstein's field equations without approximation.
+            Since Einstein's field equations are nonlinear partial differential equations, finding analytical solutions for general cases is challenging.
+        </div>
+        <br>
+        <div>
+            To tackle these complex equations, various methods have been developed, leading to the advancement of numerical relativity.
+            We primarily use the <a href="https://einsteintoolkit.org/index.html">Einstein Toolkit</a> to simulate a wide range of high-energy astrophysical phenomena.
+            The Einstein Toolkit is based on Cactus and employs computational algorithms like Finite Difference Method (FDM), Spectral Method, and Adaptive Mesh Refinement (AMR) to ensure accurate and sophisticated results.
+            We model specific scenarios of interest to calculate energy changes, gravitational wave emissions, and other relevant quantities.
+        </div>
+            <br>
+        <div>
+            The calculated gravitational waveforms play a crucial role in gravitational wave detection.
+            To successfully detect gravitational waves, we must demonstrate a strong cross-correlation with precomputed waveforms, which necessitates high-precision waveform calculations.
+            We perform convergence tests and validate the simulation's accuracy by comparing results in the weak field regime with post-Newtonian approximations.
+        </div>
+            <br>
+        <div>
+            Furthermore, we are committed to improving existing numerical algorithms and developing more efficient code to enhance performance.
+        </div>
+
+
+
+
+
+
+
+
 
     </section>
 
@@ -127,6 +197,12 @@
             </ul>
         </div>
         <h2 data-scroll="">Alumni</h2>
+        <div class="custom-box" data-scroll="">
+            <h3 data-scroll="">Minyoung Lee</h3>
+            <ul data-scroll="">
+                <li data-scroll="">Intern ( - 2023. 2)</li>
+            </ul>
+        </div>
     </section>
 
     <section id="page-3" data-scroll-section="">
